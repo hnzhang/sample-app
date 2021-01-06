@@ -10,6 +10,7 @@
   "author": "harry zhang",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "node": "^15.4.0"
   }
 }
