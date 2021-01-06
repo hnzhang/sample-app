@@ -1,5 +1,5 @@
 var data = {
-  title: 'Hello World, You!',
+  title: 'Hello World, You v2!',
   selected: null,
   question: 'In the Battle of Wolf 359 what prominent Miranda-class ship was destroyed?',
   choices: [
